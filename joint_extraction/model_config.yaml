@@ -1,0 +1,5 @@
+vocab_size: 4553
+embed_size: 128
+hidden_size: 64
+num_classes: 49
+batch_size: 32

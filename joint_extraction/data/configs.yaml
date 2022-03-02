@@ -1,0 +1,6 @@
+datapath: data\trans_data
+train_data: train_json_me.json
+dev_data: dev_json_me.json
+all_schemas: all_50_schmas_me.json
+all_chars: all_chars_me.json
+
